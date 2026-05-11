@@ -1,0 +1,11 @@
+venv/
+.env
+output/*.csv
+output/*.log
+__pycache__/
+*.pyc
+
+# Discovery/scratch scripts — not part of the published codebase
+discover.py
+discover2.py
+discover3.py
