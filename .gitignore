@@ -6,6 +6,4 @@ __pycache__/
 *.pyc
 
 # Discovery/scratch scripts — not part of the published codebase
-discover.py
-discover2.py
-discover3.py
+discover*.py
